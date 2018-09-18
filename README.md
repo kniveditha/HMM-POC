@@ -1,7 +1,7 @@
 # HMM-POC
 A Proof of Concept for Hidden Markov Model
 
-Implements a the wikipedia example of Alice and Bob, using Python and hmmlearn library.
+Implements a the wikipedia example of Alice and Bob, in Python using [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/tutorial.html#available-models) library.
 
 Scenario:
 
