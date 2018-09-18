@@ -9,4 +9,4 @@ Consider two friends, Alice and Bob, who live far apart from each other and who 
 
 Alice believes that the weather operates as a discrete Markov chain. There are two states, "Rainy" and "Sunny", but she cannot observe them directly, that is, they are hidden from her. On each day, there is a certain chance that Bob will perform one of the following activities, depending on the weather: "walk", "shop", or "clean". Since Bob tells Alice about his activities, those are the observations. The entire system is that of a hidden Markov model (HMM).
 
-
+![Example hmm model](https://github.com/kniveditha/HMM-POC/blob/master/wiki-ex.PNG)
