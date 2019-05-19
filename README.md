@@ -3,6 +3,7 @@ A simple implementation of the Hidden Markov Model in Python.
 
 ### Structure
 hmmlearn.py : A multimonial HMM model is implemented using [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/tutorial.html#available-models) library.
+
 viterbi.py : Includes the implementation of Viterbi algorithm from scratch.
 
 ## Scenario
@@ -13,4 +14,4 @@ Alice believes that weather operates as a discrete Markov chain. There are two s
 
 This implmentation assumes that the transition, emission and initial probabilies are a priori knowledge. The assumed probabilities are shown in the diagram given below. 
 
-![Example hmm model](https://github.com/kniveditha/HMM-POC/blob/master/wiki-ex.PNG)
+<center> ![Example hmm model](https://github.com/kniveditha/HMM-POC/blob/master/wiki-ex.PNG) </center>
