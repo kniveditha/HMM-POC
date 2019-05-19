@@ -14,4 +14,4 @@ Alice believes that weather operates as a discrete Markov chain. There are two s
 
 This implmentation assumes that the transition, emission and initial probabilies are a priori knowledge. The assumed probabilities are shown in the diagram given below. 
 
-<center> ![Example hmm model](https://github.com/kniveditha/HMM-POC/blob/master/wiki-ex.PNG) </center>
+![Example hmm model](https://github.com/kniveditha/HMM-POC/blob/master/wiki-ex.PNG)
